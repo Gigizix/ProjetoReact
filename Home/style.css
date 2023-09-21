@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color: rgb(140, 83, 103);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 25px;
+    border-bottom: 2px solid rgb(140, 83, 103);
+  }
+  
+  .logo {
+    max-width: 30px; /* tamanho da logo */
+  }
+  
+ 
+  .introduction {
+    background-color:rgb(140, 83, 103); /* Essa é a cor de fundo da (int)*/
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(140, 83, 103);
+    border-radius: 5px;
+  }
+  
+ 
